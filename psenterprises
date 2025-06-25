@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>P S Enterprises - TTR Calibration Services</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f4f4f4; }
+    header { background: #003366; color: #fff; padding: 1rem 0; text-align: center; }
+    nav, footer { background: #022c4c; color: #fff; text-align: center; padding: 0.5rem 0; }
+    section { padding: 2rem; background: #fff; margin: 1rem auto; width: 90%; max-width: 1000px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+    h1, h2 { color: #003366; }
+    .contact { background: #eef; padding: 1rem; border-left: 5px solid #003366; margin-top: 1rem; }
+    .device-img { width: 100%; max-width: 400px; margin: 1rem 0; border: 1px solid #ccc; border-radius: 5px; }
+    a.button { background: #003366; color: white; padding: 10px 20px; text-decoration: none; display: inline-block; border-radius: 5px; margin-top: 1rem; }
+    a.button:hover { background: #0055aa; }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>P S Enterprises</h1>
+  <p>NABL Certified TTR (Travel Temperature Recorder) Calibration Service</p>
+</header>
+
+<section>
+  <h2>About Us</h2>
+  <p>Welcome to <strong>P S Enterprises</strong>, your trusted partner for TTR services based in Chhatrapati Sambhajinagar (Aurangabad), Maharashtra. We are NABL certified and specialize in:</p>
+  <ul>
+    <li>Powder Coating Oven Calibration</li>
+    <li>Batch Type Oven Calibration</li>
+    <li>Conveyorized Oven Calibration</li>
+    <li>All types of heating-related calibration</li>
+  </ul>
+  <p>We provide reliable services PAN India, delivering <strong>excellent service, accurate advice</strong>, and <strong>cost-effective solutions</strong>.</p>
+</section>
+
+<section>
+  <h2>Our Equipment</h2>
+  <p>We use the UK-made <strong>Datapaq EasyTrack 3</strong>, a high-accuracy thermal profiling system with 6 temperature probes. This system ensures <strong>precise and reliable temperature tracking</strong> tailored to your specific industrial needs.</p>
+  <img src="WhatsApp Image 2025-06-23 at 11.35.32 PM.jpeg" alt="Datapaq Case" class="device-img">
+  <img src="WhatsApp Image 2025-06-23 at 11.35.34 PM.jpeg" alt="Datapaq Device" class="device-img">
+  <a href="datapaq-easytrack3-thermal-profiling-system_removed.pdf" class="button" download>Download Device Specification (PDF)</a>
+</section>
+
+<section>
+  <h2>Why Choose Us?</h2>
+  <ul>
+    <li>Certified and professional service</li>
+    <li>Affordable pricing</li>
+    <li>Pan India support</li>
+    <li>High-accuracy UK-made equipment</li>
+    <li>Expert guidance and reporting</li>
+  </ul>
+</section>
+
+<section class="contact">
+  <h2>Contact Us</h2>
+  <p><strong>Email:</strong> <a href="mailto:psentrprises2527@gmail.com">psentrprises2527@gmail.com</a></p>
+  <p><strong>Phone:</strong> <a href="tel:+919922269213">+91-9922-269-213</a></p>
+  <p><strong>Location:</strong> Chhatrapati Sambhajinagar (Aurangabad), Maharashtra</p>
+</section>
+
+<footer>
+  <p>&copy; 2025 P S Enterprises. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
